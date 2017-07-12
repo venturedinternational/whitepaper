@@ -12,29 +12,29 @@ The current labor marketplace has massive inefficiencies for both workers and co
 The Ventured platform will rely on three main systems to manage ideas, work, and transactions. First is a visual project management system where users can create and manage organizations called Ventures. Ventures will have custom generated token-shares that can be used as an equity-currency to exchange for work or investment on a Venture. Second is a system designed to help people work together called Guilds. Guilds will manage larger projects that are greater than what one person can achieve. Lastly, Ethereum is the “Smart Contract” Blockchain technology that enables the connection between ideas and people. Smart contracts provide a secure system for managing tokens, creating work contracts, and accurately rewarding quality work and talented people. These systems form a functional marketplace that encourages people to find interesting work and reward dedication to ideas.
 
 ## Table of contents
-1. [Background](1)
-    - [1.1](1.1) Static Jobs vs. Dynamic Work
-    - [1.2](1.2) Freelancing as a Current Solution
-    - [1.3](1.3) What Freelancing Misses
-    - [1.4](1.4) What Ventured Offers
+1. [Background]
+    - [1.1] Static Jobs vs. Dynamic Work
+    - [1.2] Freelancing as a Current Solution
+    - [1.3] What Freelancing Misses
+    - [1.4] What Ventured Offers
 2. Ventured platform
-    - [2.1](2.1) Attributes of the Ventured Platform
-    - [2.2](2.2) Venture Details
-    - [2.3](2.3) Guild Details
+    - [2.1] Attributes of the Ventured Platform
+    - [2.2] Venture Details
+    - [2.3] Guild Details
 3. - Applications
-    - [3.1](3.1) Individual Entrepreneur
-    - [3.2](3.2) Big Business
-    - [3.3](3.3) Many to Many
-    - [3.4](3.4) Decentralized Application
+    - [3.1] Individual Entrepreneur
+    - [3.2] Big Business
+    - [3.3] Many to Many
+    - [3.4] Decentralized Application
 4. VentureCoin, VCN
-    - [4.1](4.1) Token Launch Summary
-    - [4.2](4.2) Budget Allocation
-    - [4.3](4.3) Token Usage
-    - [4.4](4.4) Token Specifications
+    - [4.1] Token Launch Summary
+    - [4.2] Budget Allocation
+    - [4.3] Token Usage
+    - [4.4] Token Specifications
 5. Legal
 6. Conclusion
 
-[1]:https://github.com/venturednetwork/whitepaper#1-background
+[Background]:https://github.com/venturednetwork/whitepaper#1-background
 [1.1]: https://github.com/venturednetwork/whitepaper#11-static-jobs-vs-dynamic-work
 [1.2]: https://github.com/venturednetwork/whitepaper#12-freelancing-as-a-current-solution
 [1.3]: https://github.com/venturednetwork/whitepaper#13-what-freelancing-misses
