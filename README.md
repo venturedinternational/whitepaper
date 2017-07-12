@@ -1,5 +1,5 @@
 <div align="right">
-    <img width='60px' src='https://venturednetwork.github.io/branding/ventured-avatar-lg.png'/>
+    <img width='60px' src='https://venturednetwork.github.io/branding/assets/ventured-avatar-lg.png'/>
 </div>
 
 # Whitepaper
@@ -186,7 +186,7 @@ We hope to empower individuals in a way that allows for increased productivity a
 
 
 <div align="center">
-    <img width='60px' src='https://venturednetwork.github.io/branding/ventured-avatar-lg.png'/>
+    <img width='60px' src='https://venturednetwork.github.io/branding/assets/ventured-avatar-lg.png'/>
     <br />
     <span style='opacity: 0.7; margin-top: 50px; font-size: 0.8rem' align="center">
         Copyright © 2017 Ventured International Inc. All rights reserved. version 0.3
