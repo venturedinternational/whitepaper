@@ -43,6 +43,9 @@ This disloyalty to the company’s workforce has been a major part in a drastic 
 
 Corporations stopped respecting the loyalty system that had worked for a generation. This situation is not likely to improve. Automation and technology make it easy for employees and employers to shop around which further disincentivizes loyalty on both sides. Switching jobs every two to three years nets an average 50% more over lifetime earnings. The days of loyalty to a single organization are numbered, and the workplace needs a new solution for keeping workers invested. 
 The top 1% wage grew 138% since 1979, while wages for the bottom 90% grew only 15%.
+<div align='center'>
+    <img width='80%' src='https://github.com/venturednetwork/whitepaper/blob/master/images/wage-trending-graph.png?raw=true'>
+</div>
 
 ### 1.1. Static Jobs vs. Dynamic Work
 The jobs of post-war America were incredibly stable. They were defined by a consistent 9-5 routine and hourly wages. Employees typically worked on a single project at a time all the way through completion. 
@@ -130,45 +133,48 @@ If the minimum is not reached, we will return all ETH/BTC/LTC to their address o
 
 ### 3.2. Budget Allocation
 The funds raised from the ICO will be allocated in the following manner:
-![budget-allocation][budget-allocation]
+<div align='center'>
+    <img width='80%' src='https://github.com/venturednetwork/whitepaper/blob/master/images/budget-allocation.png?raw=true'>
+</div>
 
 ### 3.3. Token Usage
 VCN is itself a Token-Share and will have it’s value tied to the Ventured platform. Tasks that will improve the overall platform like crowdsourcing work ratings and reputation will be payable with VCN. Additionally VCN can be used to invest in other Ventures and in general transactions within the platform at a discounted rate to Ethereum. These transactions include governance, creating new Ethereum tokens, assigning new tasks, network arbitration, and other functionality.
-3.3.1. Creating New Ventures/Guilds
-Newly created Ventures and Guilds will automatically generate an ETH address associated with the organization. The amount of VCN consumed to create either will depend on the initial settings for the associated item. Larger and more complex Ventures and Guilds will require more VCN to create.
-3.3.2. Creating New Dynamic Equity-Currencies
-Ventures will be able to create their own tokens through the Ventured platform. They are able to dictate the initial value of their token through an ICO funded by ETH, as a ratio to VCN, or by declaring no inherent value to the token.
-3.3.3. Creating Smart Contracts
-The Ventured platform will provide a simple user interface to create smart contracts. Smart contract execution and deployment will require a variable amount of VCN depending on the contract parameters. 
-3.4. Token Specifications
-The core of the VCN token will be a fork of the MiniMe token open sourced by Giveth. This token contract was chosen for its great functionality and flexibility. Clones of itself can be easily generated at any given block number, and anyone can give extra features to the token holders without having to migrate to a new contract. Some of the applications that the MiniMe token contract can be used for are:
-• Generating a voting token that is burned when you vote.
-• Generating a discount "coupon" that is redeemed when you use it.
-• Generating a token for a "spinoff" DAO.
-• Generating a token that can be used to give explicit support to an action or a campaign, like polling.
-• Generating a token to enable the token holders to collect daily, monthly or yearly payments.
-• Generating a token to limit participation in a token sale or similar event to holders of a specific token.
-• Generating token that allows a central party complete control to transfer/generate/destroy tokens at will.
-• All other applications that an ERC20 compliant token is capable of
-5. Legal
-See the terms and conditions here: https://www.ventured.one/terms/
 
+#### 3.3.1. Creating New Ventures/Guilds
+Newly created Ventures and Guilds will automatically generate an ETH address associated with the organization. The amount of VCN consumed to create either will depend on the initial settings for the associated item. Larger and more complex Ventures and Guilds will require more VCN to create.
+
+#### 3.3.2. Creating New Dynamic Equity-Currencies
+Ventures will be able to create their own tokens through the Ventured platform. They are able to dictate the initial value of their token through an ICO funded by ETH, as a ratio to VCN, or by declaring no inherent value to the token.
+#### 3.3.3. Creating Smart Contracts
+The Ventured platform will provide a simple user interface to create smart contracts. Smart contract execution and deployment will require a variable amount of VCN depending on the contract parameters. 
+
+### 3.4. Token Specifications
+The core of the VCN token will be a fork of the MiniMe token open sourced by Giveth. This token contract was chosen for its great functionality and flexibility. Clones of itself can be easily generated at any given block number, and anyone can give extra features to the token holders without having to migrate to a new contract. Some of the applications that the MiniMe token contract can be used for are:
+- Generating a voting token that is burned when you vote.
+- Generating a discount "coupon" that is redeemed when you use it.
+- Generating a token for a "spinoff" DAO.
+- Generating a token that can be used to give explicit support to an action or a campaign, like polling.
+- Generating a token to enable the token holders to collect daily, monthly or yearly payments.
+- Generating a token to limit participation in a token sale or similar event to holders of a specific token.
+- Generating token that allows a central party complete control to transfer/generate/destroy tokens at will.
+- All other applications that an ERC20 compliant token is capable of
+
+## 5. Legal
+See the terms and conditions here: https://www.ventured.one/terms/
 
-6. Conclusion
-Ventured is the next generation of work. It allows people to work on things they find most interesting, and be rewarded for it. Individuals are no longer bound by companies, or location. Ventured is an ambitious platform by any standard, but also has the potential to benefit all workers on a global scale. 
+## 6. Conclusion
+**Ventured** is the next generation of work. It allows people to work on things they find most interesting, and be rewarded for it. Individuals are no longer bound by companies, or location. Ventured is an ambitious platform by any standard, but also has the potential to benefit all workers on a global scale. 
 We hope to empower individuals in a way that allows for increased productivity and life fulfillment. We want you, the potential investor, to help us bring this platform to life. Subscribe to our newsletter at https://www.ventured.one/ and participate in our initial coin offering on August 15th. Using the funds raised, we will be able to fund development of Ventured and fix the current broken system of work and labour. 
 
 
-#### Information
-Publisher: Ventured International Inc.
-<br />
-Version: 0.3
-<br />
-Created at: May 15, 2017
-<br />
-
-[budget-allocation]: dd
-
+<div style='opacity: 0.7; margin-top: 50px'>
+    Publisher: Ventured International Inc.
+    <br />
+    Version: 0.3
+    <br />
+    Created at: May 15, 2017
+    <br />
+</div>
 
 <div align="center">
     <img width='60px' src='https://venturednetwork.github.io/branding/ventured-avatar-lg.png'/>
