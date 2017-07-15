@@ -6,7 +6,7 @@
 _Connecting Ideas and Work on the Ethereum Blockchain_
 
 ## Abstract
-The "gig economy” [2] helps employers and employees confront flexibility requirements of a rapidly changing work environment. However, the nature of the relationship between company and contractor does not establish enough social equity to allow freelancers to work on core projects within companies. This greatly limits the share of work available to freelancers and limits companies flexibility. Furthermore, the relationship structure exploits freelancers who bargain as individuals. 
+The "gig economy” [<sup>[2]</sup>](http://www.investopedia.com/terms/g/gig-economy.asp) helps employers and employees confront flexibility requirements of a rapidly changing work environment. However, the nature of the relationship between company and contractor does not establish enough social equity to allow freelancers to work on core projects within companies. This greatly limits the share of work available to freelancers and limits companies flexibility. Furthermore, the relationship structure exploits freelancers who bargain as individuals. 
 <br>
 Ventured seeks to establish social equity between contractors and companies through smart work contracts, built on Ethereum, that enable the exchange of equity and create accountability on the blockchain. These contracts will be folded into a network paired with pre-trained models to ensure a better match of skills, interests, and compensation for job searches. These data insights will be transparent to freelancers allowing for a more balanced marketplace between people and organizations.
 
