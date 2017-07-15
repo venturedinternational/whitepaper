@@ -13,24 +13,24 @@ Ventured seeks to establish social equity between contractors and companies thro
 
 ## Table of contents
 * [Background](#background)
-    - [Static Jobs vs. Dynamic Work]
-    - [Freelancing as a Current Solution]
-    - [What Freelancing Misses]
-    - [What Ventured Offers]
-[Ventured platform]
-    - [Attributes of the Ventured Platform]
-    - [Venture Details]
-    - [Guild Details]
-[VentureCoin, VCN]
-    - [Token Launch Summary]
-    - [Budget Allocation]
-    - [Token Usage]
-    - [Token Specifications]
-[Legal]
-[Conclusion]
+    * [Static Jobs vs. Dynamic Work](#static-jobs-vs-dynamic-work)
+    * [Freelancing as a Current Solution](#freelancing-as-a-current-solution)
+    * [What Freelancing Misses](#what-freelancing-misses)
+    * [What Ventured Offers](#what-ventured-offers)
+* [Ventured platform](#ventured-platform)
+    * [Attributes of the Ventured Platform]
+    * [Venture Details]
+    * [Guild Details]
+* [VentureCoin, VCN]
+    * [Token Launch Summary]
+    * [Budget Allocation]
+    * [Token Usage]
+    * [Token Specifications]
+* [Legal]
+* [Conclusion]
 
 [Background]:https://github.com/venturednetwork/whitepaper#1-background
-[Static Jobs vs. Dynamic Work]: https://github.com/venturednetwork/whitepaper#11-static-jobs-vs-dynamic-work
+[Static Jobs vs. Dynamic Work]: https://github.com/venturednetwork/whitepaper#static-jobs-vs-dynamic-work
 [Freelancing as a Current Solution]: https://github.com/venturednetwork/whitepaper#12-freelancing-as-a-current-solution
 [What Freelancing Misses]: https://github.com/venturednetwork/whitepaper#13-what-freelancing-misses
 [What Ventured Offers]: https://github.com/venturednetwork/whitepaper#14-what-ventured-offers
@@ -60,28 +60,28 @@ The top 1% wage grew 138% since 1979, while wages for the bottom 90% grew only 1
     <img width='80%' src='https://github.com/venturednetwork/whitepaper/blob/master/images/wage-trending-graph.png?raw=true'>
 </div>
 
-### 1.1. Static Jobs vs. Dynamic Work
+### Static Jobs vs. Dynamic Work
 The jobs of post-war America were incredibly stable. They were defined by a consistent 9-5 routine and hourly wages. Employees typically worked on a single project at a time all the way through completion. 
 In contrast the work of the modern world is incredibly dynamic. People often work multiple jobs and projects simultaneously or in quick succession. Company demands change greatly when new opportunities arise. There is a disconnect between the static job system that defined post-war America and the dynamic work that is being done today. 
 There is a need for a new type of dynamic work system where jobs are replaced by work. However, many of the benefits of static jobs need to be incorporated into this system. Companies need invested workers and talented managers. Workers need fair benefits and wages. Loyalty, hard work, and expertise need to be rewarded. 
 
-### 1.2. Freelancing as a Current Solution
+### Freelancing as a Current Solution
 In response to the rise of dynamic work there has already been explosive growth in the “gig economy.” Freelancers receive an estimated $1 trillion dollars annually for their work. People and companies are turning to contracting as a solution for their dynamic needs. This is generally a better solution than the static job system of the past, but misses many of the benefits that made static jobs effective.
 There is little engagement in this contracting work and generally the contractors aren’t being efficiently managed. Instead they spend lots of time left in the dark or managing themselves. Contractors undercut each other to compete for desirable work, driving down their wages. They have little recourse for collective bargaining and no stake in the projects they help build. Finally their work is treated as extremely replaceable and loyalty often goes unrewarded. 
 Despite these disadvantages people increasingly choose freelancing work for the increased agency, flexibility in schedule, and a direct connection between their work and their pay. Time has become the scarce resource of the 21st century and being able to choose when your time can be used is appealing. Improving freelancing with benefits from the old system of work could create a more fair system for freelancers and attract workers reluctant to leave the false security of their unfulfilling day jobs.
 
-### 1.3. What Freelancing Misses
+### What Freelancing Misses
 Freelancing work today is mostly repeated one-off tasks or small solo projects with little opportunity to work on core aspects. Bigger projects or team projects are rarely outsourced. This misses the vast majority of work that is being done in the modern economy.
 As a result companies are unable to contract out most of their work and have to spend a large amount of resources to integrate contracted work with the core business. Keeping long term contractors to maintain important projects can become prohibitively expensive and it can be challenging to create incentives for contractors to be loyal.
 One of these missing incentives is the ability to pay freelancers with equity. Freelancers who earn equity would have a reason to be engaged in the growth of the Venture because their reward is directly tied to its success. Disengaged workers cost organizations approximately $3,400 for every $10,000 in annual salary. Companies with engaged workforces experience 19% growth in operating income each year. 
 
-### 1.4. What Ventured Offers
+### What Ventured Offers
 Ventured will expand the freelancing marketplace by creating a network protocol for a smart dynamic work system where the vast majority of the work required for a project, startup, or an event could be crowdsourced. A decentralized way to work that is still able to tackle the world’s biggest problems. 
 It is key for the network to create a new system of loyalty where it is obvious which workers can be trusted with core projects. Part of the loyalty system will be based on using Ethereum to create token-shares as an equity currency for freelancing. These token-shares will provide a direct incentive for freelancers to make a Venture succeed. Additionally by supplying context for work, helping keep track of past work history, and rewarding continual work on one project workers can be incentivized to become loyal.
 The Ventured network protocol has recently become possible because of the Ethereum network and major advances in machine learning. Modern machine learning techniques can be used to match people with work and make accurate estimates at the real value of a piece of work. These matches and estimates can be communicated programmatically through oracles within smart work contracts created on Ethereum to accurately pay people. In the Ventured network people and companies will have the required information to understand the cost and benefits of their work.
 Facilitating large projects to use contracting is key to the future of work. It will be a necessary step in fair payments and expediting the most important work in the world. Freeing people to choose the work that is most valuable or most interesting will be empowering and completely change the landscape of business.
 
-## 2. Ventured Platform
+## Ventured Platform
 The Ventured Platform will allow users to efficiently exchange three things: Work, Cash-Equivalents, and Token-Shares.
 
 The users we are building this product for fit into two main categories: People who have ideas that require work to execute (Venture Creator) and people who have some skill they are looking to apply to a project that interests them in exchange for some cash-equivalent or stake in that specific project (Venturer).
@@ -131,9 +131,9 @@ Once a user creates a profile they can discover or search for Ventures that inte
 
 Eventually the system may make suggestions for new opportunities based on profile preferences, friends list, and which Ventures the user is following. Venturers can team up to form guilds or add each other as friends to do work together in the future. And of course any Venturer has the ability to create their own Venture at any time.
 
-## 3. VentureCoin (VCN)
+## VentureCoin (VCN)
 
-### 3.1. Token Launch Summary
+### Token Launch Summary
 VentureCoin will have a hard cap of 40M USD, and a minimum of 4M USD (4M USD) in ETH/BTC/LTC.
 If the minimum is not reached, we will return all ETH/BTC/LTC to their address owners. There will be 1.5 Billion VCN minted, with 500 million for sale in the initial coin offering. Core contributors of the Ventured project will retain 500 million VCN with a one year vesting schedule. The remaining 500 million VCN will be used to promote the framework and to make donations to the Ethereum Foundation. No future VCN will ever be minted.
 • Total VCN = 1.5 billion
@@ -144,24 +144,24 @@ If the minimum is not reached, we will return all ETH/BTC/LTC to their address o
 • Token launch time-frame: One month.
 • Token launch completion: Token launch will end when either the maximum number of ETH are raised or after a period of one month.
 
-### 3.2. Budget Allocation
+### Budget Allocation
 The funds raised from the ICO will be allocated in the following manner:
 <div align='center'>
     <img width='80%' src='https://github.com/venturednetwork/whitepaper/blob/master/images/budget-allocation.png?raw=true'>
 </div>
 
-### 3.3. Token Usage
+### Token Usage
 VCN is itself a Token-Share and will have it’s value tied to the Ventured platform. Tasks that will improve the overall platform like crowdsourcing work ratings and reputation will be payable with VCN. Additionally VCN can be used to invest in other Ventures and in general transactions within the platform at a discounted rate to Ethereum. These transactions include governance, creating new Ethereum tokens, assigning new tasks, network arbitration, and other functionality.
 
-#### 3.3.1. Creating New Ventures/Guilds
+#### Creating New Ventures/Guilds
 Newly created Ventures and Guilds will automatically generate an ETH address associated with the organization. The amount of VCN consumed to create either will depend on the initial settings for the associated item. Larger and more complex Ventures and Guilds will require more VCN to create.
 
-#### 3.3.2. Creating New Dynamic Equity-Currencies
+#### Creating New Dynamic Equity-Currencies
 Ventures will be able to create their own tokens through the Ventured platform. They are able to dictate the initial value of their token through an ICO funded by ETH, as a ratio to VCN, or by declaring no inherent value to the token.
-#### 3.3.3. Creating Smart Contracts
+#### Creating Smart Contracts
 The Ventured platform will provide a simple user interface to create smart contracts. Smart contract execution and deployment will require a variable amount of VCN depending on the contract parameters. 
 
-### 3.4. Token Specifications
+### Token Specifications
 The core of the VCN token will be a fork of the MiniMe token open sourced by Giveth. This token contract was chosen for its great functionality and flexibility. Clones of itself can be easily generated at any given block number, and anyone can give extra features to the token holders without having to migrate to a new contract. Some of the applications that the MiniMe token contract can be used for are:
 - Generating a voting token that is burned when you vote.
 - Generating a discount "coupon" that is redeemed when you use it.
@@ -172,10 +172,10 @@ The core of the VCN token will be a fork of the MiniMe token open sourced by Giv
 - Generating token that allows a central party complete control to transfer/generate/destroy tokens at will.
 - All other applications that an ERC20 compliant token is capable of
 
-## 5. Legal
+## Legal
 See the terms and conditions here: https://www.ventured.one/terms/
 
-## 6. Conclusion
+## Conclusion
 **Ventured** is the next generation of work. It allows people to work on things they find most interesting, and be rewarded for it. Individuals are no longer bound by companies, or location. Ventured is an ambitious platform by any standard, but also has the potential to benefit all workers on a global scale. 
 We hope to empower individuals in a way that allows for increased productivity and life fulfillment. We want you, the potential investor, to help us bring this platform to life. Subscribe to our newsletter at https://www.ventured.one/ and participate in our initial coin offering on August 15th. Using the funds raised, we will be able to fund development of Ventured and fix the current broken system of work and labour. 
 
