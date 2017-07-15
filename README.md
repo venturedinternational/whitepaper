@@ -49,24 +49,31 @@ Ventured seeks to establish social equity between contractors and companies thro
 
 
 ## Background
-Post World War II America is often seen as one of the greatest periods of growth and economic mobility in the modern world. A study from Aaronson and Mazumder used an intergenerational elasticity indicator to suggest “that economic mobility was relatively low in 1940 but increased over the subsequent four decades.” Workers benefitted greatly in a post-war America. The “Organization Man” that stayed with a company could expect the company to take care of him. In turn these companies benefited from dedicated employees who worked hard to improve the organization.
-“However, economic mobility fell sharply during the 1980s and failed to revert, perhaps even continued to decline, in the 1990s.” (Aaronson and Mazumder) Through a mix of policy changes and globalization, the prosperity that workers enjoyed in post-war America dematerialized. Corporations were quick to take advantage of cheaper solutions and when employees couldn’t adjust to the changing economy they were left behind. All of this came to a head in the recent recession where long term employees were often displaced. 
-This disloyalty to the company’s workforce has been a major part in a drastic rise of inequality. Productivity has kept rising, but people afraid to lose their jobs are working longer hours and struggling to get by. Wages have stagnated while additional company profits increasingly concentrate at the top.
-> “Codependency is a counterfeit form of loyalty.” (John C. Haughey) 
+Post World War II America is often viewed as one of the greatest periods of growth and economic mobility in the modern world. A study from Aaronson and Mazumder used an intergenerational elasticity indicator to suggest that: “economic mobility was relatively low in 1940 but increased over the subsequent four decades.” [3] Workers benefitted greatly in a post-war America. The “Organization Man” [4] that stayed with a company could expect the company to take care of him. In turn, these companies benefited from dedicated employees who worked hard to improve the organization because they were personally invested in the company.
+<br>
+“However, economic mobility fell sharply during the 1980s and failed to revert, perhaps even continued to decline, in the 1990s.” [3] Due to a mix of policy changes and globalization, the prosperity that workers enjoyed in post-war America dematerialized. Corporations were quick to take advantage of cheaper solutions and when employees couldn’t adjust to the changing economy they were left behind. This was exacerbated during the recent recession where long term employees were often displaced. 
+<br>
+This disloyalty to the company’s workforce has been a major part in a drastic rise of inequality. As productivity continues to rise people afraid to lose their jobs are working longer hours and struggling to get by. [7] Wages have stagnated while additional company profits increasingly concentrate at the top. [8; 9]
+<br>
+“Codependency is a counterfeit form of loyalty.” [5]
+<br>
+Corporations stopped respecting the loyalty system that had worked for a generation. This situation is not likely to improve. Automation and technology make it easy for employees and employers to shop around which further disincentivizes loyalty on both sides. Switching jobs every two to three years nets an average 50% more over a person’s lifetime earnings. [10] The days of loyalty to a single organization are numbered, and the workplaces could greatly benefit from a new solution that will keep workers invested. 
 
-Corporations stopped respecting the loyalty system that had worked for a generation. This situation is not likely to improve. Automation and technology make it easy for employees and employers to shop around which further disincentivizes loyalty on both sides. Switching jobs every two to three years nets an average 50% more over lifetime earnings. The days of loyalty to a single organization are numbered, and the workplace needs a new solution for keeping workers invested. 
-The top 1% wage grew 138% since 1979, while wages for the bottom 90% grew only 15%.
 <div align='center'>
     <img width='80%' src='https://github.com/venturednetwork/whitepaper/blob/master/images/wage-trending-graph.png?raw=true'>
 </div>
+The top 1% wage grew 138% since 1979, while wages for the bottom 90% grew only 15%. [8]
 
 ### Static Jobs vs. Dynamic Work
 The jobs of post-war America were incredibly stable. They were defined by a consistent 9-5 routine and hourly wages. Employees typically worked on a single project at a time all the way through completion. 
+<br>
 In contrast the work of the modern world is incredibly dynamic. People often work multiple jobs and projects simultaneously or in quick succession. Company demands change greatly when new opportunities arise. There is a disconnect between the static job system that defined post-war America and the dynamic work that is being done today. 
+<br>
 There is a need for a new type of dynamic work system where jobs are replaced by work. However, many of the benefits of static jobs need to be incorporated into this system. Companies need invested workers and talented managers. Workers need fair benefits and wages. Loyalty, hard work, and expertise need to be rewarded. 
 
 ### Freelancing as a Current Solution
 In response to the rise of dynamic work there has already been explosive growth in the “gig economy.” Freelancers receive an estimated $1 trillion dollars annually for their work. People and companies are turning to contracting as a solution for their dynamic needs. This is generally a better solution than the static job system of the past, but misses many of the benefits that made static jobs effective.
+<br>
 There is little engagement in this contracting work and generally the contractors aren’t being efficiently managed. Instead they spend lots of time left in the dark or managing themselves. Contractors undercut each other to compete for desirable work, driving down their wages. They have little recourse for collective bargaining and no stake in the projects they help build. Finally their work is treated as extremely replaceable and loyalty often goes unrewarded. 
 Despite these disadvantages people increasingly choose freelancing work for the increased agency, flexibility in schedule, and a direct connection between their work and their pay. Time has become the scarce resource of the 21st century and being able to choose when your time can be used is appealing. Improving freelancing with benefits from the old system of work could create a more fair system for freelancers and attract workers reluctant to leave the false security of their unfulfilling day jobs.
 
