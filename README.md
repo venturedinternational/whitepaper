@@ -189,14 +189,6 @@ See the terms and conditions here: https://www.ventured.one/terms/
 We hope to empower individuals in a way that allows for increased productivity and life fulfillment. We want you, the potential investor, to help us bring this platform to life. Subscribe to our newsletter at https://www.ventured.one/ and participate in our initial coin offering on August 15th. Using the funds raised, we will be able to fund development of Ventured and fix the current broken system of work and labour. 
 
 
-<div align="center">
-    <img width='60px' src='https://venturednetwork.github.io/branding/assets/ventured-avatar-lg.png'/>
-    <br />
-    <span style='opacity: 0.7; margin-top: 50px; font-size: 0.8rem' align="center">
-        Copyright © 2017 Ventured International Inc. All rights reserved. version 0.3
-    </span>
-</div>
-
 References
 1. World Economic Forum. The Future Of Jobs. World Economic Forum; 2017:6,20. Available at: http://www3.weforum.org/docs/WEF_Future_of_Jobs.pdf. Accessed July 13, 2017.
 2. Dragonette L. Gig Economy. Investopedia. 2017. Available at: http://www.investopedia.com/terms/g/gig-economy.asp. Accessed July 13, 2017.
@@ -211,3 +203,11 @@ References
 11. Ward S. 5 Reasons Being a Contractor Is Not for Everyone. The Balance. 2017. Available at: https://www.thebalance.com/the-disadvantages-of-being-a-contractor-2948559. Accessed July 13, 2017.
 12. Freelancing in America: 2016. Slideshare. 2017. Available at: https://www.slideshare.net/upwork/freelancing-in-america-2016/1. Accessed July 14, 2017.
 
+
+<div align="center">
+    <img width='60px' src='https://venturednetwork.github.io/branding/assets/ventured-avatar-lg.png'/>
+    <br />
+    <span style='opacity: 0.7; margin-top: 50px; font-size: 0.8rem' align="center">
+        Copyright © 2017 Ventured International Inc. All rights reserved. version 0.3
+    </span>
+</div>
