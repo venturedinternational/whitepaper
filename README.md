@@ -12,7 +12,7 @@ Ventured seeks to establish social equity between contractors and companies thro
 
 
 ## Table of contents
-*[Background](#background)
+* [Background](#background)
     - [Static Jobs vs. Dynamic Work]
     - [Freelancing as a Current Solution]
     - [What Freelancing Misses]
