@@ -12,34 +12,29 @@ Ventured seeks to establish social equity between contractors and companies thro
 
 
 ## Table of contents
-1. [Background]
-    - [1.1] Static Jobs vs. Dynamic Work
-    - [1.2] Freelancing as a Current Solution
-    - [1.3] What Freelancing Misses
-    - [1.4] What Ventured Offers
-2. Ventured platform
-    - [2.1] Attributes of the Ventured Platform
-    - [2.2] Venture Details
-    - [2.3] Guild Details
-3. - Applications
-    - [3.1] Individual Entrepreneur
-    - [3.2] Big Business
-    - [3.3] Many to Many
-    - [3.4] Decentralized Application
-4. VentureCoin, VCN
-    - [4.1] Token Launch Summary
-    - [4.2] Budget Allocation
-    - [4.3] Token Usage
-    - [4.4] Token Specifications
-5. Legal
-6. Conclusion
+[Background]
+    - [Static Jobs vs. Dynamic Work]
+    - [Freelancing as a Current Solution]
+    - [What Freelancing Misses]
+    - [What Ventured Offers]
+[Ventured platform]
+    - [Attributes of the Ventured Platform]
+    - [Venture Details]
+    - [Guild Details]
+[VentureCoin, VCN]
+    - [Token Launch Summary]
+    - [Budget Allocation]
+    - [Token Usage]
+    - [Token Specifications]
+[Legal]
+[Conclusion]
 
 [Background]:https://github.com/venturednetwork/whitepaper#1-background
-[1.1]: https://github.com/venturednetwork/whitepaper#11-static-jobs-vs-dynamic-work
-[1.2]: https://github.com/venturednetwork/whitepaper#12-freelancing-as-a-current-solution
-[1.3]: https://github.com/venturednetwork/whitepaper#13-what-freelancing-misses
-[1.4]: https://github.com/venturednetwork/whitepaper#14-what-ventured-offers
-[2]: https://github.com/venturednetwork/whitepaper#2-ventured-platform
+[Static Jobs vs. Dynamic Work]: https://github.com/venturednetwork/whitepaper#11-static-jobs-vs-dynamic-work
+[Freelancing as a Current Solution]: https://github.com/venturednetwork/whitepaper#12-freelancing-as-a-current-solution
+[What Freelancing Misses]: https://github.com/venturednetwork/whitepaper#13-what-freelancing-misses
+[What Ventured Offers]: https://github.com/venturednetwork/whitepaper#14-what-ventured-offers
+[Ventured Platform]: https://github.com/venturednetwork/whitepaper#2-ventured-platform
 [2.1]: ?
 [2.2]: ?
 [2.3]: ?
