@@ -6,10 +6,10 @@
 _Connecting Ideas and Work on the Ethereum Blockchain_
 
 ## Abstract
-Ventured is a platform for individuals to discover engaging work and for projects to find the talent they need. The Ventured platform will allow people to propose and manage ideas by trading dynamically generated token-shares for work.
-This paper discusses problems with the current system of work, solutions within the Ventured platform, and the introduction of VentureCoin(VCN). 
-The current labor marketplace has massive inefficiencies for both workers and companies. Work is rewarded on average throughput, but has high variance between cost and value generated. People work far outside their expertise and on projects that actively demotivate them.
-The Ventured platform will rely on three main systems to manage ideas, work, and transactions. First is a visual project management system where users can create and manage organizations called Ventures. Ventures will have custom generated token-shares that can be used as an equity-currency to exchange for work or investment on a Venture. Second is a system designed to help people work together called Guilds. Guilds will manage larger projects that are greater than what one person can achieve. Lastly, Ethereum is the “Smart Contract” Blockchain technology that enables the connection between ideas and people. Smart contracts provide a secure system for managing tokens, creating work contracts, and accurately rewarding quality work and talented people. These systems form a functional marketplace that encourages people to find interesting work and reward dedication to ideas.
+The "gig economy” [2] helps employers and employees confront flexibility requirements of a rapidly changing work environment. However, the nature of the relationship between company and contractor does not establish enough social equity to allow freelancers to work on core projects within companies. This greatly limits the share of work available to freelancers and limits companies flexibility. Furthermore, the relationship structure exploits freelancers who bargain as individuals. 
+<br>
+Ventured seeks to establish social equity between contractors and companies through smart work contracts, built on Ethereum, that enable the exchange of equity and create accountability on the blockchain. These contracts will be folded into a network paired with pre-trained models to ensure a better match of skills, interests, and compensation for job searches. These data insights will be transparent to freelancers allowing for a more balanced marketplace between people and organizations.
+
 
 ## Table of contents
 1. [Background]
