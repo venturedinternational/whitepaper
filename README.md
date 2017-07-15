@@ -12,7 +12,7 @@ Ventured seeks to establish social equity between contractors and companies thro
 
 
 ## Table of contents
-[Background]
+*[Background](#background)
     - [Static Jobs vs. Dynamic Work]
     - [Freelancing as a Current Solution]
     - [What Freelancing Misses]
@@ -48,7 +48,7 @@ Ventured seeks to establish social equity between contractors and companies thro
 [4.4]: ?
 
 
-## 1. Background
+## Background
 Post World War II America is often seen as one of the greatest periods of growth and economic mobility in the modern world. A study from Aaronson and Mazumder used an intergenerational elasticity indicator to suggest “that economic mobility was relatively low in 1940 but increased over the subsequent four decades.” Workers benefitted greatly in a post-war America. The “Organization Man” that stayed with a company could expect the company to take care of him. In turn these companies benefited from dedicated employees who worked hard to improve the organization.
 “However, economic mobility fell sharply during the 1980s and failed to revert, perhaps even continued to decline, in the 1990s.” (Aaronson and Mazumder) Through a mix of policy changes and globalization, the prosperity that workers enjoyed in post-war America dematerialized. Corporations were quick to take advantage of cheaper solutions and when employees couldn’t adjust to the changing economy they were left behind. All of this came to a head in the recent recession where long term employees were often displaced. 
 This disloyalty to the company’s workforce has been a major part in a drastic rise of inequality. Productivity has kept rising, but people afraid to lose their jobs are working longer hours and struggling to get by. Wages have stagnated while additional company profits increasingly concentrate at the top.
