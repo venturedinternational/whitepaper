@@ -7,7 +7,7 @@ _Connecting Ideas and Work on the Ethereum Blockchain_
 
 ## Abstract
 The "gig economy” [<sup>[2]</sup>](http://www.investopedia.com/terms/g/gig-economy.asp/) helps employers and employees confront flexibility requirements of a rapidly changing work environment. However, the nature of the relationship between company and contractor does not establish enough social equity to allow freelancers to work on core projects within companies. This greatly limits the share of work available to freelancers and limits companies flexibility. Furthermore, the relationship structure exploits freelancers who bargain as individuals. 
-<br>
+<br><br>
 Ventured seeks to establish social equity between contractors and companies through smart work contracts, built on Ethereum, that enable the exchange of equity and create accountability on the blockchain. These contracts will be folded into a network paired with pre-trained models to ensure a better match of skills, interests, and compensation for job searches. These data insights will be transparent to freelancers allowing for a more balanced marketplace between people and organizations.
 
 
@@ -65,11 +65,13 @@ Corporations stopped respecting the loyalty system that had worked for a generat
 The top 1% wage grew 138% since 1979, while wages for the bottom 90% grew only 15%. [<sup>[8]</sup>](http://fortune.com/2015/10/14/1-percent-global-wealth-credit-suisse/)
 
 ### Static Jobs vs. Dynamic Work
-The jobs of post-war America were incredibly stable. They were defined by a consistent 9-5 routine and hourly wages. Employees typically worked on a single project at a time all the way through completion. 
+The jobs of post-war America were incredibly stable. They were defined by a consistent 9-5 routine and hourly wages. Employees typically worked on a single project at a time all the way through completion.
 <br>
-In contrast the work of the modern world is incredibly dynamic. People often work multiple jobs and projects simultaneously or in quick succession. Company demands change greatly when new opportunities arise. There is a disconnect between the static job system that defined post-war America and the dynamic work that is being done today. 
-<br>
+A survey done by the World Economic Forum found 44% of respondents consider the biggest driver of change in business to be the flexibility and changing nature of work. [1]
+In contrast, the work of the modern world is incredibly dynamic. People often work multiple jobs and projects simultaneously, or in quick succession. Company demands change greatly when new opportunities arise. There is a disconnect between the static job system that defined post-war America and the dynamic work that is being done today. 
 There is a need for a new type of dynamic work system where jobs are replaced by work. However, many of the benefits of static jobs need to be incorporated into this system. Companies need invested workers and talented managers. Workers need fair benefits and wages. Loyalty, hard work, and expertise need to be rewarded. 
+Disengaged workers cost organizations approximately $3,400 for every $10,000 in annual salary. [6]
+
 
 ### Freelancing as a Current Solution
 In response to the rise of dynamic work there has already been explosive growth in the “gig economy.” Freelancers receive an estimated $1 trillion dollars annually for their work. People and companies are turning to contracting as a solution for their dynamic needs. This is generally a better solution than the static job system of the past, but misses many of the benefits that made static jobs effective.
@@ -194,3 +196,18 @@ We hope to empower individuals in a way that allows for increased productivity a
         Copyright © 2017 Ventured International Inc. All rights reserved. version 0.3
     </span>
 </div>
+
+References
+1. World Economic Forum. The Future Of Jobs. World Economic Forum; 2017:6,20. Available at: http://www3.weforum.org/docs/WEF_Future_of_Jobs.pdf. Accessed July 13, 2017.
+2. Dragonette L. Gig Economy. Investopedia. 2017. Available at: http://www.investopedia.com/terms/g/gig-economy.asp. Accessed July 13, 2017.
+3. Aaronson D, Mazumder B. Intergenerational Economic Mobility in the United States, 1940 to 2000. Journal of Human Resources. 2008;43(1):139-172. doi:10.3368/jhr.43.1.139.
+4. Whyte W, Nocera J. The Organization Man. Philadelphia: University of Pennsylvania Press; 1956.
+5. Haughey J. Does Loyalty in the Workplace Have a Future?. Business Ethics Quarterly. 1993;3(1):1. doi:10.2307/3857378.
+6. Haydon R. Show Me the Money: The ROI of Employee Engagement - DecisionWise. DecisionWise. 2017. Available at: https://www.decision-wise.com/show-me-the-money-the-roi-of-employee-engagement/. Accessed July 13, 2017.
+7. Wile R. These 3 Charts Show Why Middle Class Workers Are Struggling to Get Ahead Today. Time. 2017. Available at: http://time.com/money/4742648/middle-class-workers-struggle-financial-diaries/. Accessed July 13, 2017.
+8. Bentley D. The Top 1% Now Owns Half the World's Wealth. Fortune. 2017. Available at: http://fortune.com/2015/10/14/1-percent-global-wealth-credit-suisse/. Accessed July 13, 2017.
+9. Mishel L, Gould E, Bivens J. Wage Stagnation in Nine Charts. Economic Policy Institute. 2017. Available at: http://www.epi.org/publication/charting-wage-stagnation/. Accessed July 13, 2017.
+10. Keng C. Forbes Welcome. Forbes. 2017. Available at: https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/#68b80605e07f. Accessed July 13, 2017.
+11. Ward S. 5 Reasons Being a Contractor Is Not for Everyone. The Balance. 2017. Available at: https://www.thebalance.com/the-disadvantages-of-being-a-contractor-2948559. Accessed July 13, 2017.
+12. Freelancing in America: 2016. Slideshare. 2017. Available at: https://www.slideshare.net/upwork/freelancing-in-america-2016/1. Accessed July 14, 2017.
+
