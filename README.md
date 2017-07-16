@@ -74,7 +74,7 @@ In contrast, the work of the modern world is incredibly dynamic. People often wo
 <br><br>
 There is a need for a new type of dynamic work system where jobs are replaced by work. However, many of the benefits of static jobs need to be incorporated into this system. Companies need invested workers and talented managers. Workers need fair benefits and wages. Loyalty, hard work, and expertise need to be rewarded. 
 <br><br>
-Disengaged workers cost organizations approximately $3,400 for every $10,000 in annual salary. [<sup>[6]</sup>](https://www.decision-wise.com/show-me-the-money-the-roi-of-employee-engagement/)
+> Disengaged workers cost organizations approximately $3,400 for every $10,000 in annual salary. [<sup>[6]</sup>](https://www.decision-wise.com/show-me-the-money-the-roi-of-employee-engagement/)
 
 
 ### Freelancing as a Current Solution
