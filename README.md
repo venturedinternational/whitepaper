@@ -17,8 +17,8 @@ Ventured seeks to establish social equity between contractors and companies thro
     * [Freelancing as a Current Solution](#freelancing-as-a-current-solution)
     * [What Freelancing Misses](#what-freelancing-misses)
     * [What Ventured Offers](#what-ventured-offers)
-* [Ventured platform](#ventured-platform)
-    * [Attributes of the Ventured Platform]
+* [Ventured App](#ventured-app)
+    * [Weekly Product Stream]
     * [Venture Details]
     * [Guild Details]
 * [VentureCoin, VCN]
