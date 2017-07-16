@@ -92,7 +92,7 @@ One of these missing incentives is the ability to pay freelancers with equity. F
 
 
 ### What Ventured Offers
-Ventured will expand the freelancing marketplace by creating a network protocol for a smart dynamic work system where the vast majority of the work required for a project, startup, or event could be crowdsourced. <b>Ventured is providing a decentralized way to work that is still able to tackle the world’s biggest problems. <b>
+Ventured will expand the freelancing marketplace by creating a network protocol for a smart dynamic work system where the vast majority of the work required for a project, startup, or event could be crowdsourced. <b>Ventured is providing a decentralized way to work that is still able to tackle the world’s biggest problems. </b>
 <br><br>
 It is key for the network to create a new system of loyalty where it is obvious which workers can be trusted with core projects. Part of the loyalty system will be based on using Ethereum to create token-shares as an equity currency for freelancing. These token-shares will provide a direct incentive for freelancers to make a Venture succeed. Additionally, by supplying context for work, helping keep track of past work history, and rewarding continual work on one project workers can be incentivized to become loyal.
 <br><br>
