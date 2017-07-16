@@ -1,6 +1,7 @@
 <div align="right">
     <img width='60px' src='https://venturednetwork.github.io/branding/assets/ventured-avatar-lg.png'/>
 </div>
+
 # Whitepaper
 _Connecting Ideas and Work on the Ethereum Blockchain_
 
