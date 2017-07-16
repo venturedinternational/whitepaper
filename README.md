@@ -62,13 +62,12 @@ Corporations stopped respecting the loyalty system that had worked for a generat
 <div align='center'>
     <img width='80%' src='https://github.com/venturednetwork/whitepaper/blob/master/images/wage-trending-graph.png?raw=true'>
 </div>
-<br>
-The top 1% wage grew 138% since 1979, while wages for the bottom 90% grew only 15%. [<sup>[8]</sup>](http://fortune.com/2015/10/14/1-percent-global-wealth-credit-suisse/)
+The top 1% wage grew 138% since 1979, while wages for the bottom 90% grew only 15%. <br> [<sup>[8]</sup>](http://fortune.com/2015/10/14/1-percent-global-wealth-credit-suisse/)
 
 ### Static Jobs vs. Dynamic Work
 The jobs of post-war America were incredibly stable. They were defined by a consistent 9-5 routine and hourly wages. Employees typically worked on a single project at a time all the way through completion.
 <br>
-<h3>A survey done by the World Economic Forum found 44% of respondents consider the biggest driver of change in business to be the flexibility and changing nature of work. [<sup>[1]</sup>](http://www3.weforum.org/docs/WEF_Future_of_Jobs.pdf)</h3>
+<h5>A survey done by the World Economic Forum found 44% of respondents consider the biggest driver of change in business to be the flexibility and changing nature of work. [<sup>[1]</sup>](http://www3.weforum.org/docs/WEF_Future_of_Jobs.pdf)</h5>
 <br>
 In contrast, the work of the modern world is incredibly dynamic. People often work multiple jobs and projects simultaneously, or in quick succession. Company demands change greatly when new opportunities arise. There is a disconnect between the static job system that defined post-war America and the dynamic work that is being done today. 
 <br><br>
