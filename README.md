@@ -21,13 +21,13 @@ Ventured seeks to establish social equity between contractors and companies thro
     * [Weekly Product Stream](#weekly-product-stream)
     * [Features](#features)
     * [How it works](#how-it-works)
-* [VentureCoin, VCN](#venturecoin)
+* [VentureCoin, VCN](#venturecoin-vcn)
     * [Token Launch Summary](#token-launch-summary)
-    * [Budget Allocation]
-    * [Token Usage]
-    * [Token Specifications]
-* [Legal]
-* [Conclusion]
+    * [Budget Allocation](#budget-allocation)
+    * [Token Usage](#token-usage)
+    * [Token Specifications](#token-specifications)
+* [Legal](#legal)
+* [Conclusion](#conclustion)
 
 [Background]:https://github.com/venturednetwork/whitepaper#1-background
 [Static Jobs vs. Dynamic Work]: https://github.com/venturednetwork/whitepaper#static-jobs-vs-dynamic-work
