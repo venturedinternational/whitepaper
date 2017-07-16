@@ -18,11 +18,11 @@ Ventured seeks to establish social equity between contractors and companies thro
     * [What Freelancing Misses](#what-freelancing-misses)
     * [What Ventured Offers](#what-ventured-offers)
 * [Ventured App](#ventured-app)
-    * [Weekly Product Stream]
-    * [Venture Details]
-    * [Guild Details]
-* [VentureCoin, VCN]
-    * [Token Launch Summary]
+    * [Weekly Product Stream](#weekly-product-stream)
+    * [Features](#features)
+    * [How it works](#how-it-works)
+* [VentureCoin, VCN](#venturecoin)
+    * [Token Launch Summary](#token-launch-summary)
     * [Budget Allocation]
     * [Token Usage]
     * [Token Specifications]
