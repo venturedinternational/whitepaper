@@ -1,7 +1,6 @@
 <div align="right">
     <img width='60px' src='https://venturednetwork.github.io/branding/assets/ventured-avatar-lg.png'/>
 </div>
-
 # Whitepaper
 _Connecting Ideas and Work on the Ethereum Blockchain_
 
@@ -73,48 +72,46 @@ The jobs of post-war America were incredibly stable. They were defined by a cons
 In contrast, the work of the modern world is incredibly dynamic. People often work multiple jobs and projects simultaneously, or in quick succession. Company demands change greatly when new opportunities arise. There is a disconnect between the static job system that defined post-war America and the dynamic work that is being done today. 
 <br><br>
 There is a need for a new type of dynamic work system where jobs are replaced by work. However, many of the benefits of static jobs need to be incorporated into this system. Companies need invested workers and talented managers. Workers need fair benefits and wages. Loyalty, hard work, and expertise need to be rewarded. 
-<br><br>
 > Disengaged workers cost organizations approximately $3,400 for every $10,000 in annual salary. [<sup>[6]</sup>](https://www.decision-wise.com/show-me-the-money-the-roi-of-employee-engagement/)
 
 
 ### Freelancing as a Current Solution
-In response to the rise of dynamic work there has already been explosive growth in the “gig economy.” Freelancers receive an estimated $1 trillion dollars annually for their work. People and companies are turning to contracting as a solution for their dynamic needs. This is generally a better solution than the static job system of the past, but misses many of the benefits that made static jobs effective.
-<br>
-There is little engagement in this contracting work and generally the contractors aren’t being efficiently managed. Instead they spend lots of time left in the dark or managing themselves. Contractors undercut each other to compete for desirable work, driving down their wages. They have little recourse for collective bargaining and no stake in the projects they help build. Finally their work is treated as extremely replaceable and loyalty often goes unrewarded. 
-Despite these disadvantages people increasingly choose freelancing work for the increased agency, flexibility in schedule, and a direct connection between their work and their pay. Time has become the scarce resource of the 21st century and being able to choose when your time can be used is appealing. Improving freelancing with benefits from the old system of work could create a more fair system for freelancers and attract workers reluctant to leave the false security of their unfulfilling day jobs.
+In response to the rise of dynamic work there has already been explosive growth in the “gig economy.” [<sup>[2]</sup>](http://www.investopedia.com/terms/g/gig-economy.asp) Freelancers receive an estimated $1 trillion dollars annually for their work. [<sup>[12]</sup>](https://www.slideshare.net/upwork/freelancing-in-america-2016/1) People and companies are turning to contracting as a solution for their dynamic needs. This is generally a better solution than the static job system of the past, but misses many of the benefits that made static jobs effective.
+<br><br>
+There is little engagement in this contracting work and generally the contractors aren’t being efficiently managed. Instead they spend lots of time left in the dark or managing themselves. Contractors undercut each other to compete for desirable work, driving down their wages. They have little recourse for collective bargaining and no stake in the projects they help build. Finally, their work is treated as extremely replaceable and loyalty often goes unrewarded. [<sup>[11]</sup>](https://www.thebalance.com/the-disadvantages-of-being-a-contractor-2948559)
+<br><br>
+Despite these disadvantages people increasingly choose freelance work for the increased agency, flexibility in schedule, and a direct connection between their work and their pay. [<sup>[12]</sup>](https://www.slideshare.net/upwork/freelancing-in-america-2016/1) Time has become the scarce resource of the 21st century and being able to choose the times you work is appealing. Improving freelancing with benefits from the old system of work could create a more fair system for freelancers and attract workers reluctant to leave their day jobs.
+
 
 ### What Freelancing Misses
-Freelancing work today is mostly repeated one-off tasks or small solo projects with little opportunity to work on core aspects. Bigger projects or team projects are rarely outsourced. This misses the vast majority of work that is being done in the modern economy.
-As a result companies are unable to contract out most of their work and have to spend a large amount of resources to integrate contracted work with the core business. Keeping long term contractors to maintain important projects can become prohibitively expensive and it can be challenging to create incentives for contractors to be loyal.
-One of these missing incentives is the ability to pay freelancers with equity. Freelancers who earn equity would have a reason to be engaged in the growth of the Venture because their reward is directly tied to its success. Disengaged workers cost organizations approximately $3,400 for every $10,000 in annual salary. Companies with engaged workforces experience 19% growth in operating income each year. 
+Freelancing work today is mostly repeated one-off tasks or small solo projects with little opportunity to work on core aspects. Bigger projects or team projects are rarely outsourced causing freelancers to miss out on the vast majority of work that is being done in the modern economy.
+<br><br>
+As a result, companies are unable to contract out most of their work and have to spend a large amount of resources to integrate contracted work with their core business. Keeping long term contractors to maintain important projects can become prohibitively expensive. Additionally, it can be challenging to create incentives for contractors to be loyal.
+<br><br>
+One of these missing incentives is the ability to pay freelancers with equity. Freelancers who earn equity would have a reason to be engaged in the growth of the venture because their reward is directly tied to its success. Companies with engaged workforces experience 19% growth in operating income each year. [<sup>[6]</sup>](https://www.decision-wise.com/show-me-the-money-the-roi-of-employee-engagement/)
+
 
 ### What Ventured Offers
-Ventured will expand the freelancing marketplace by creating a network protocol for a smart dynamic work system where the vast majority of the work required for a project, startup, or an event could be crowdsourced. A decentralized way to work that is still able to tackle the world’s biggest problems. 
-It is key for the network to create a new system of loyalty where it is obvious which workers can be trusted with core projects. Part of the loyalty system will be based on using Ethereum to create token-shares as an equity currency for freelancing. These token-shares will provide a direct incentive for freelancers to make a Venture succeed. Additionally by supplying context for work, helping keep track of past work history, and rewarding continual work on one project workers can be incentivized to become loyal.
-The Ventured network protocol has recently become possible because of the Ethereum network and major advances in machine learning. Modern machine learning techniques can be used to match people with work and make accurate estimates at the real value of a piece of work. These matches and estimates can be communicated programmatically through oracles within smart work contracts created on Ethereum to accurately pay people. In the Ventured network people and companies will have the required information to understand the cost and benefits of their work.
+Ventured will expand the freelancing marketplace by creating a network protocol for a smart dynamic work system where the vast majority of the work required for a project, startup, or event could be crowdsourced. <b>Ventured is providing a decentralized way to work that is still able to tackle the world’s biggest problems. <b>
+<br><br>
+It is key for the network to create a new system of loyalty where it is obvious which workers can be trusted with core projects. Part of the loyalty system will be based on using Ethereum to create token-shares as an equity currency for freelancing. These token-shares will provide a direct incentive for freelancers to make a Venture succeed. Additionally, by supplying context for work, helping keep track of past work history, and rewarding continual work on one project workers can be incentivized to become loyal.
+<br><br>
+The Ventured network protocol will take advantage of the Ethereum network and major advances in machine learning. Modern machine learning techniques can be used to match people with work and make accurate estimates at the real value of a piece of work. These matches and estimates can be communicated programmatically through oracles within smart work contracts created on Ethereum to accurately pay people. <b>In the Ventured Network people and companies will have the required information to understand the cost and benefits of their work.</b>
+<br><br>
 Facilitating large projects to use contracting is key to the future of work. It will be a necessary step in fair payments and expediting the most important work in the world. Freeing people to choose the work that is most valuable or most interesting will be empowering and completely change the landscape of business.
 
+
 ## Ventured Platform
-The Ventured Platform will allow users to efficiently exchange three things: Work, Cash-Equivalents, and Token-Shares.
-
-The users we are building this product for fit into two main categories: People who have ideas that require work to execute (Venture Creator) and people who have some skill they are looking to apply to a project that interests them in exchange for some cash-equivalent or stake in that specific project (Venturer).
-
-This means there are two general use cases for the Ventured Platform: 
-- A user will able to come to the platform and search until they find a Venture that meets their criteria (pay rate, schedule, location, social match, skill match, interest, etc). Then that user will be able to apply to do work for that Venture in exchange for some amount of money (ETH, BC, LC) and/or some amount of Token-Shares of that specific Venture.
-- A user will be able to come to the platform and create a new Venture which is an idea for some product, service, event, organization etc. Once the Venture is created that user will be able to offer their own unique Share Token and/or money (ETH,BC, LC) in exchange for work. 
+The Ventured App will expose the Ventured Network systems of smart contracts and pre-trained models as a web platform with additional functionality. It will enable users to create Ventures out of their ideas or existing projects. Within a Venture admins can create work and allocate payment with token-shares of the Venture or currencies like Ether and VC. This project management system on top of the Ventured Network will allow users to efficiently exchange three things: work, cash-equivalents, and token-shares.
+<br><br>
+The users we are building this product for fit into two main categories: people who have ideas that require work to execute (Venture creators) and people who have some skill they are looking to apply to a project that interests them in exchange for some cash-equivalent or stake in that specific project (Venturer).
+<br><br>
+This means there are two general use cases for the Ventured App: 
+- A user will able to come to the platform and search until they find a Venture that meets their criteria (pay rate, schedule, location, social match, skill match, interest, etc). Then that user will be able to apply to do work for that Venture in exchange for some amount of money (ETH, BTC, LTC) and/or some amount of Token-Shares of that specific Venture.
+- A user will be able to come to the platform and create a new Venture which is an idea for some product, service, event, organization etc. Once the Venture is created that user will be able to offer their own unique token-share and/or money (ETH, BTC, LTC) in exchange for work. 
 
 ### Weekly Product Stream
 There are many additional use cases which we will be showcasing in a weekly product stream. The idea for that stream is to take a closer look at some of the features listed below and their corresponding use cases and then to walk through the product prototype on stream and get feedback from the audience. 
-
-### Ethereum Overview
-Ethereum is an open-source, public, blockchain-based distributed computing platform featuring “smart contract” (scripting) functionality, which facilitates online contractual agreements. It was created by Vitalik Buterin, an early Bitcoin adopter, with contributions from several other developers. Ethereum employs smart contracts to execute arbitrary code on a collection of nodes that make up the Ethereum network. The token that powers the Ethereum network is called “ether”, which in turn supports the entire platform. 
-Smart contract programs (“Ðapps,” short for “decentralized applications”) require gas (some amount of ether) to run. The gas is paid to the miner whose computer runs the contract. A distributed application has several benefits over the traditional method of software development. Distributed applications on the Ethereum Blockchain allow software to have no single point of failure, be open source, and require no central broker that controls user content or product data. 
-
-### Micro-Equity Creates Invested Workers
-One of the major missing tools for freelancing is a simple method to pay people with equity. Equity payments constitute a second possible currency with which to pay employees. This currency is typically based on a future payoff where the value is expected to rise and liquidation options are more rare. However because the future payoff is correlated to the success of the Venture there is a direct incentive for employees to make the Venture succeed. Workers become invested in the growth of the Venture because their reward is directly linked to that success.
-Ventured plans to use Ethereum to create this secondary currency for freelancing. The addition of a token-share for Ventures will make contractors invested in the projects they choose to work on. It also establishes a simple way for startups and small projects to crowdsource their needs by offering their token-shares as an early payment for people who really think the project will succeed. 
-Disengaged workers cost organizations approximately $3,400 for every $10,000 in annual salary. Companies with engaged workforces experience 19% growth in operating income each year. It is vital to create engaged and invested workers that want the Venture to succeed. Incentive plans and payments based around the performance of the Venture are some of the best ways to create invested workers. 
-http://www.greatify.co/media/statistics-employee-motivation/
 
 ### Features
 1. **Search** - As a user I want to be able to find Ventures that are a good match for me. Some of the search/filter categories include: pay rate, schedule, location, social match, skill match, and interest.
@@ -136,12 +133,12 @@ http://www.greatify.co/media/statistics-employee-motivation/
 ### How it works
 #### For the Venture Creator
 Once a user finishes the setup process a custom page for managing the Venture and a set of Token-Shares are dynamically generated within the platform. On this page a user can create work, allocate tokens for work, and manage permissions for people working on the Venture. Additionally, Ventures have public information regarding who has done past work, the status of a project, and the eventual goals. 
-
+<br><br>
 After it’s creation, a Venture will be a fully autocratic organization, but this can be changed into several management systems including a full DAO (decentralized autonomous organization). 
 
 #### For the Venturer 
 Once a user creates a profile they can discover or search for Ventures that interest them. As that user does work their ratings will change based on the work they have done (customer satisfaction rating, skill rating, teamwork rating, timeliness rating, etc). Over time a user’s profile should become an accurate reflection of the type of work they are good at and the preferences they have.
-
+<br><br>
 Eventually the system may make suggestions for new opportunities based on profile preferences, friends list, and which Ventures the user is following. Venturers can team up to form guilds or add each other as friends to do work together in the future. And of course any Venturer has the ability to create their own Venture at any time.
 
 ## VentureCoin (VCN)
@@ -192,6 +189,10 @@ See the terms and conditions here: https://www.ventured.one/terms/
 **Ventured** is the next generation of work. It allows people to work on things they find most interesting, and be rewarded for it. Individuals are no longer bound by companies, or location. Ventured is an ambitious platform by any standard, but also has the potential to benefit all workers on a global scale. 
 We hope to empower individuals in a way that allows for increased productivity and life fulfillment. We want you, the potential investor, to help us bring this platform to life. Subscribe to our newsletter at https://www.ventured.one/ and participate in our initial coin offering on August 15th. Using the funds raised, we will be able to fund development of Ventured and fix the current broken system of work and labour. 
 
+## Appendices
+### Ethereum Overview
+Ethereum is an open-source, public, blockchain-based distributed computing platform featuring “smart contract” (scripting) functionality, which facilitates online contractual agreements. It was created by Vitalik Buterin, an early Bitcoin adopter, with contributions from several other developers. Ethereum employs smart contracts to execute arbitrary code on a collection of nodes that make up the Ethereum network. The token that powers the Ethereum network is called “ether”, which in turn supports the entire platform. 
+Smart contract programs (“Ðapps,” short for “decentralized applications”) require gas (some amount of ether) to run. The gas is paid to the miner whose computer runs the contract. A distributed application has several benefits over the traditional method of software development. Distributed applications on the Ethereum Blockchain allow software to have no single point of failure, be open source, and require no central broker that controls user content or product data. 
 
 References
 1. World Economic Forum. The Future Of Jobs. World Economic Forum; 2017:6,20. Available at: http://www3.weforum.org/docs/WEF_Future_of_Jobs.pdf. Accessed July 13, 2017.
