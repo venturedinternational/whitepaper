@@ -67,10 +67,13 @@ The top 1% wage grew 138% since 1979, while wages for the bottom 90% grew only 1
 ### Static Jobs vs. Dynamic Work
 The jobs of post-war America were incredibly stable. They were defined by a consistent 9-5 routine and hourly wages. Employees typically worked on a single project at a time all the way through completion.
 <br>
-A survey done by the World Economic Forum found 44% of respondents consider the biggest driver of change in business to be the flexibility and changing nature of work. [1]
+<h3>A survey done by the World Economic Forum found 44% of respondents consider the biggest driver of change in business to be the flexibility and changing nature of work. [<sup>[1]</sup>](http://www3.weforum.org/docs/WEF_Future_of_Jobs.pdf)</h3>
+<br>
 In contrast, the work of the modern world is incredibly dynamic. People often work multiple jobs and projects simultaneously, or in quick succession. Company demands change greatly when new opportunities arise. There is a disconnect between the static job system that defined post-war America and the dynamic work that is being done today. 
+<br><br>
 There is a need for a new type of dynamic work system where jobs are replaced by work. However, many of the benefits of static jobs need to be incorporated into this system. Companies need invested workers and talented managers. Workers need fair benefits and wages. Loyalty, hard work, and expertise need to be rewarded. 
-Disengaged workers cost organizations approximately $3,400 for every $10,000 in annual salary. [6]
+<br><br>
+Disengaged workers cost organizations approximately $3,400 for every $10,000 in annual salary. [<sup>[6]</sup>](https://www.decision-wise.com/show-me-the-money-the-roi-of-employee-engagement/)
 
 
 ### Freelancing as a Current Solution
