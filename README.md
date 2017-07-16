@@ -31,10 +31,10 @@ Ventured seeks to establish social equity between contractors and companies thro
 
 [Background]:https://github.com/venturednetwork/whitepaper#1-background
 [Static Jobs vs. Dynamic Work]: https://github.com/venturednetwork/whitepaper#static-jobs-vs-dynamic-work
-[Freelancing as a Current Solution]: https://github.com/venturednetwork/whitepaper#12-freelancing-as-a-current-solution
-[What Freelancing Misses]: https://github.com/venturednetwork/whitepaper#13-what-freelancing-misses
-[What Ventured Offers]: https://github.com/venturednetwork/whitepaper#14-what-ventured-offers
-[Ventured Platform]: https://github.com/venturednetwork/whitepaper#2-ventured-platform
+[Freelancing as a Current Solution]: https://github.com/venturednetwork/whitepaper#freelancing-as-a-current-solution
+[What Freelancing Misses]: https://github.com/venturednetwork/whitepaper#what-freelancing-misses
+[What Ventured Offers]: https://github.com/venturednetwork/whitepaper#what-ventured-offers
+[Ventured App]: https://github.com/venturednetwork/whitepaper#ventured-app
 [2.1]: ?
 [2.2]: ?
 [2.3]: ?
