@@ -102,7 +102,7 @@ The Ventured network protocol will take advantage of the Ethereum network and ma
 Facilitating large projects to use contracting is key to the future of work. It will be a necessary step in fair payments and expediting the most important work in the world. Freeing people to choose the work that is most valuable or most interesting will be empowering and completely change the landscape of business.
 
 
-## Ventured Platform
+## The Ventured App
 The Ventured App will expose the Ventured Network systems of smart contracts and pre-trained models as a web platform with additional functionality. It will enable users to create Ventures out of their ideas or existing projects. Within a Venture admins can create work and allocate payment with token-shares of the Venture or currencies like Ether and VC. This project management system on top of the Ventured Network will allow users to efficiently exchange three things: work, cash-equivalents, and token-shares.
 <br><br>
 The users we are building this product for fit into two main categories: people who have ideas that require work to execute (Venture creators) and people who have some skill they are looking to apply to a project that interests them in exchange for some cash-equivalent or stake in that specific project (Venturer).
