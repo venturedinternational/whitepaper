@@ -59,9 +59,6 @@ This disloyalty to the company’s workforce has been a major part in a drastic 
 <br><br>
 Corporations stopped respecting the loyalty system that had worked for a generation. This situation is not likely to improve. Automation and technology make it easy for employees and employers to shop around which further disincentivizes loyalty on both sides. Switching jobs every two to three years nets an average 50% more over a person’s lifetime earnings. [<sup>[10]</sup>](https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/#68b80605e07f/) The days of loyalty to a single organization are numbered, and the workplaces could greatly benefit from a new solution that will keep workers invested. 
 
-<div align='center'>
-    <img width='80%' src='https://github.com/venturednetwork/whitepaper/blob/master/images/wage-trending-graph.png?raw=true'>
-</div>
 The top 1% wage grew 138% since 1979, while wages for the bottom 90% grew only 15%. [<sup>[8]</sup>](http://fortune.com/2015/10/14/1-percent-global-wealth-credit-suisse/)
 
 ### Static Jobs vs. Dynamic Work
