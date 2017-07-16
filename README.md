@@ -28,6 +28,8 @@ Ventured seeks to establish social equity between contractors and companies thro
     * [Token Specifications](#token-specifications)
 * [Legal](#legal)
 * [Conclusion](#conclustion)
+* [Appendices](#appendices)
+* [References](#references)
 
 [Background]:https://github.com/venturednetwork/whitepaper#1-background
 [Static Jobs vs. Dynamic Work]: https://github.com/venturednetwork/whitepaper#static-jobs-vs-dynamic-work
@@ -147,13 +149,13 @@ Eventually the system may make suggestions for new opportunities based on profil
 ### Token Launch Summary
 VentureCoin will have a hard cap of 40M USD, and a minimum of 4M USD (4M USD) in ETH/BTC/LTC.
 If the minimum is not reached, we will return all ETH/BTC/LTC to their address owners. There will be 1.5 Billion VCN minted, with 500 million for sale in the initial coin offering. Core contributors of the Ventured project will retain 500 million VCN with a one year vesting schedule. The remaining 500 million VCN will be used to promote the framework and to make donations to the Ethereum Foundation. No future VCN will ever be minted.
-• Total VCN = 1.5 billion
-• Total VCN for sale = 500 million
-• Exchange rate: 1 ETH = 5,000 VCN
-• Token contract address: Will be published through our website 12 hours before launch date. 
-• Launch date and time: 8AM PST August 15, 2017
-• Token launch time-frame: One month.
-• Token launch completion: Token launch will end when either the maximum number of ETH are raised or after a period of one month.
+- Total VCN = 1.5 billion
+- Total VCN for sale = 500 million
+- Exchange rate: 1 ETH = 5,000 VCN
+- Token contract address: Will be published through our website 12 hours before launch date. 
+- Launch date and time: 8AM PST August 15, 2017
+- Token launch time-frame: One month.
+- Token launch completion: Token launch will end when either the maximum number of ETH are raised or after a period of one month.
 
 ### Budget Allocation
 The funds raised from the ICO will be allocated in the following manner:
@@ -188,6 +190,7 @@ See the terms and conditions here: https://www.ventured.one/terms/
 
 ## Conclusion
 **Ventured** is the next generation of work. It allows people to work on things they find most interesting, and be rewarded for it. Individuals are no longer bound by companies, or location. Ventured is an ambitious platform by any standard, but also has the potential to benefit all workers on a global scale. 
+<br><br>
 We hope to empower individuals in a way that allows for increased productivity and life fulfillment. We want you, the potential investor, to help us bring this platform to life. Subscribe to our newsletter at https://www.ventured.one/ and participate in our initial coin offering on August 15th. Using the funds raised, we will be able to fund development of Ventured and fix the current broken system of work and labour. 
 
 ## Appendices
@@ -195,7 +198,7 @@ We hope to empower individuals in a way that allows for increased productivity a
 Ethereum is an open-source, public, blockchain-based distributed computing platform featuring “smart contract” (scripting) functionality, which facilitates online contractual agreements. It was created by Vitalik Buterin, an early Bitcoin adopter, with contributions from several other developers. Ethereum employs smart contracts to execute arbitrary code on a collection of nodes that make up the Ethereum network. The token that powers the Ethereum network is called “ether”, which in turn supports the entire platform. 
 Smart contract programs (“Ðapps,” short for “decentralized applications”) require gas (some amount of ether) to run. The gas is paid to the miner whose computer runs the contract. A distributed application has several benefits over the traditional method of software development. Distributed applications on the Ethereum Blockchain allow software to have no single point of failure, be open source, and require no central broker that controls user content or product data. 
 
-References
+## References
 1. World Economic Forum. The Future Of Jobs. World Economic Forum; 2017:6,20. Available at: http://www3.weforum.org/docs/WEF_Future_of_Jobs.pdf. Accessed July 13, 2017.
 2. Dragonette L. Gig Economy. Investopedia. 2017. Available at: http://www.investopedia.com/terms/g/gig-economy.asp. Accessed July 13, 2017.
 3. Aaronson D, Mazumder B. Intergenerational Economic Mobility in the United States, 1940 to 2000. Journal of Human Resources. 2008;43(1):139-172. doi:10.3368/jhr.43.1.139.
