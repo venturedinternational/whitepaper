@@ -62,7 +62,8 @@ Corporations stopped respecting the loyalty system that had worked for a generat
 <div align='center'>
     <img width='80%' src='https://github.com/venturednetwork/whitepaper/blob/master/images/wage-trending-graph.png?raw=true'>
 </div>
-The top 1% wage grew 138% since 1979, while wages for the bottom 90% grew only 15%. [<sup>[7]</sup>](http://time.com/money/4742648/middle-class-workers-struggle-financial-diaries/)
+<br>
+The top 1% wage grew 138% since 1979, while wages for the bottom 90% grew only 15%. [<sup>[8]</sup>](http://fortune.com/2015/10/14/1-percent-global-wealth-credit-suisse/)
 
 ### Static Jobs vs. Dynamic Work
 The jobs of post-war America were incredibly stable. They were defined by a consistent 9-5 routine and hourly wages. Employees typically worked on a single project at a time all the way through completion.
