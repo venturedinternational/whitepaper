@@ -6,7 +6,7 @@
 _Connecting Ideas and Work on the Ethereum Blockchain_
 
 ## Abstract
-The "gig economy” [<sup>[2]</sup>](http://www.investopedia.com/terms/g/gig-economy.asp/) helps employers and employees confront flexibility requirements of a rapidly changing work environment. However, the nature of the relationship between company and contractor does not establish enough social equity to allow freelancers to work on core projects within companies. This greatly limits the share of work available to freelancers and limits companies flexibility. Furthermore, the relationship structure exploits freelancers who bargain as individuals. 
+The "gig economy” [<sup>[2]</sup>](http://www.investopedia.com/terms/g/gig-economy.asp/) helps employers and employees confront flexibility requirements of a rapidly changing work environment. However, the nature of the relationship between company and contractor does not establish enough social equity to allow freelancers to work on core projects within companies. This greatly limits the share of work available to freelancers and limits companies’ flexibility. Furthermore, the relationship structure exploits freelancers who bargain as individuals. 
 <br><br>
 Ventured seeks to establish social equity between contractors and companies through smart work contracts, built on Ethereum, that enable the exchange of equity and create accountability on the blockchain. These contracts will be folded into a network paired with pre-trained models to ensure a better match of skills, interests, and compensation for job searches. These data insights will be transparent to freelancers allowing for a more balanced marketplace between people and organizations.
 
@@ -55,7 +55,7 @@ Post World War II America is often viewed as one of the greatest periods of grow
 <br><br>
 “However, economic mobility fell sharply during the 1980s and failed to revert, perhaps even continued to decline, in the 1990s.” <sup>3</sup> Due to a mix of policy changes and globalization, the prosperity that workers enjoyed in post-war America dematerialized. Corporations were quick to take advantage of cheaper solutions and when employees couldn’t adjust to the changing economy they were left behind. This was exacerbated during the recent recession where long term employees were often displaced. 
 <br><br>
-This disloyalty to the company’s workforce has been a major part in a drastic rise of inequality. As productivity continues to rise people afraid to lose their jobs are working longer hours and struggling to get by. [<sup>[7]</sup>](http://time.com/money/4742648/middle-class-workers-struggle-financial-diaries/) Wages have stagnated while additional company profits increasingly concentrate at the top. [<sup>[8]</sup>](http://fortune.com/2015/10/14/1-percent-global-wealth-credit-suisse/)[<sup>[9]</sup>](http://www.epi.org/publication/charting-wage-stagnation/)
+This disloyalty to the company’s workforce has been a major part in a drastic rise of inequality. As productivity continues to rise, people afraid to lose their jobs are working longer hours and struggling to get by. [<sup>[7]</sup>](http://time.com/money/4742648/middle-class-workers-struggle-financial-diaries/) Wages have stagnated while additional company profits have increasingly concentrated at the top. [<sup>[8]</sup>](http://fortune.com/2015/10/14/1-percent-global-wealth-credit-suisse/)[<sup>[9]</sup>](http://www.epi.org/publication/charting-wage-stagnation/)
 <br><br>
 “Codependency is a counterfeit form of loyalty.” <sup>5</sup>
 <br><br>
@@ -111,21 +111,21 @@ The users we are building this product for fit into two main categories: people 
 <br><br>
 This means there are two general use cases for the Ventured App: 
 - A user will able to come to the platform and search until they find a Venture that meets their criteria (pay rate, schedule, location, social match, skill match, interest, etc). Then that user will be able to apply to do work for that Venture in exchange for some amount of money (ETH, BTC, LTC) and/or some amount of Token-Shares of that specific Venture.
-- A user will be able to come to the platform and create a new Venture which is an idea for some product, service, event, organization etc. Once the Venture is created that user will be able to offer their own unique token-share and/or money (ETH, BTC, LTC) in exchange for work. 
+- A user will be able to come to the platform and create a new Venture that is an idea for some product, service, event, organization etc. Once the Venture is created that user will be able to offer their own unique token-share and/or money (ETH, BTC, LTC) in exchange for work. 
 
 ### Weekly Product Stream
-There are many additional use cases which we will be showcasing in a weekly product stream. The idea for that stream is to take a closer look at some of the features listed below and their corresponding use cases and then to walk through the product prototype on stream and get feedback from the audience. 
+There are many additional use cases that we will be showcasing in a weekly product stream. The stream aims to take a closer look at some of the features listed below and their corresponding use cases and then walk through the product prototype on stream and get feedback from the audience. 
 
 ### Features
 1. **Search** - As a user I want to be able to find Ventures that are a good match for me. Some of the search/filter categories include: pay rate, schedule, location, social match, skill match, and interest.
 
 2. **Discovery** - As a user I can directly input my preferences for Ventures that are a fit for me and the system can also discretely learn which Ventures are a fit for me over time. This means that as I continue to use the Venture Platform the “Recommended Ventures” will become more and more accurate. This will allow me to discover Ventures that are a good fit for me that I otherwise would not have thought to seek out.
 
-3. **Ventures Creation Tool** - As a user I should be able to create a new Venture using a step-by-step template which makes the process as easy as possible. There are many complex questions such as how to organize the Venture’s management structure and how to decide the number of Share Tokens to create etc that should be simplified into a suggested template format which can be customized to the user’s satisfaction.
+3. **Ventures Creation Tool** - As a user I should be able to create a new Venture using a step-by-step template that makes the process as easy as possible. There are many complex questions such as how to organize the Venture’s management structure and how to decide the number of Token-Shares to create that should be simplified into a suggested template format which can be customized to the user’s satisfaction.
 
-4. **Guilds** - As a user I may enjoy working with a specific group of people. I find that we all have a good chemistry and our skills complement one another’s. So I create a Guild which allows us to offer our services as a group and take on larger and more complex work tasks. -bargaining
+4. **Guilds** - As a user I may enjoy working with a specific group of people. I find that we all have a good chemistry and our skills complement one another’s. So I create a Guild which allows us to offer our services as a group and take on larger and more complex work tasks.
 
-5. **Friends** - As a user I will encounter many other people while doing work on the Ventured Platform. If I like working with a specific person I may add them as a friend and write a note about them in my friend’s list. ‘Great front end dev. Really seemed to be on the same page.’ Later I may direct message a friend and ask them to join a Venture with me or I may filter the list of Ventures to see only ones that include my friends.
+5. **Friends** - As a user I will encounter many other people while doing work on the Ventured App. If I like working with a specific person I may add them as a friend and write a note about them in my friend’s list. Ex: “Great front end dev. Really seemed to be on the same page.” Later I may direct message a friend and ask them to join a Venture with me or I may filter the list of Ventures to see only ones that include my friends.
 
 6. **Reputation** - As a user I want to be recognized for the amount of time I have spent working on a specific Venture. There is a difference between someone who has been putting in tons of hours on a Venture and someone who has just joined. If there is a critical task that the Venture needs done it may be helpful to see which of the candidates has the highest reputation. Additionally, a Venture may decide to reward people with high reputation as a bonus in order to incentivise individuals to work on the project for longer periods of time. The key assumption here is that in some cases an individual's ability to contribute value to a Venture is enhanced by amount of context and background knowledge that the individual will gain over time while working on that specific Venture. 
 
@@ -189,9 +189,9 @@ The core of the VCN token will be a fork of the MiniMe token open sourced by Giv
 See the terms and conditions here: https://www.ventured.one/terms/
 
 ## Conclusion
-**Ventured** is the next generation of work. It allows people to work on things they find most interesting, and be rewarded for it. Individuals are no longer bound by companies, or location. Ventured is an ambitious platform by any standard, but also has the potential to benefit all workers on a global scale. 
+**Ventured** is facilitating the next generation of work. It allows people to work on things they find most interesting and be rewarded for it. Individuals are no longer bound by companies or location. Ventured is an ambitious platform by any standard, but it has the potential to benefit all workers on a global scale.
 <br><br>
-We hope to empower individuals in a way that allows for increased productivity and life fulfillment. We want you, the potential investor, to help us bring this platform to life. Subscribe to our newsletter at https://www.ventured.one/ and participate in our initial coin offering on August 15th. Using the funds raised, we will be able to fund development of Ventured and fix the current broken system of work and labour. 
+We hope to empower individuals in a way that allows for increased productivity and life fulfillment. We want you, the potential investor, to help us bring this platform to life. Subscribe to our newsletter at https://www.ventured.one/ and participate in our initial coin offering on August 25th. Using the funds raised, we will be able to fund development of Ventured and fix the current broken system of work and labour. 
 
 ## Appendices
 ### Ethereum Overview
