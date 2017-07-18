@@ -110,7 +110,7 @@ The Ventured App will expose the Ventured Network systems of smart contracts and
 The users we are building this product for fit into two main categories: people who have ideas that require work to execute (Venture creators) and people who have some skill they are looking to apply to a project that interests them in exchange for some cash-equivalent or stake in that specific project (Venturer).
 <br><br>
 This means there are two general use cases for the Ventured App: 
-- A user will able to come to the platform and search until they find a Venture that meets their criteria (pay rate, schedule, location, social match, skill match, interest, etc). Then that user will be able to apply to do work for that Venture in exchange for some amount of money (ETH, BTC, LTC) and/or some amount of Token-Shares of that specific Venture.
+- A user will be able to come to the platform and search until they find a Venture that meets their criteria (pay rate, schedule, location, social match, skill match, interest, etc). Then that user will be able to apply to do work for that Venture in exchange for some amount of money (ETH, BTC, LTC) and/or some amount of Token-Shares of that specific Venture.
 - A user will be able to come to the platform and create a new Venture that is an idea for some product, service, event, organization etc. Once the Venture is created that user will be able to offer their own unique token-share and/or money (ETH, BTC, LTC) in exchange for work. 
 
 ### Weekly Product Stream
