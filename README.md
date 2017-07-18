@@ -186,7 +186,7 @@ The core of the VCN token will be a fork of the MiniMe token open sourced by Giv
 - All other applications that an ERC20 compliant token is capable of
 
 ## Legal
-See the terms and conditions here: https://www.ventured.one/terms/
+See the terms and conditions here: https://ventured.one/terms-and-conditions
 
 ## Conclusion
 **Ventured** is facilitating the next generation of work. It allows people to work on things they find most interesting and be rewarded for it. Individuals are no longer bound by companies or location. Ventured is an ambitious platform by any standard, but it has the potential to benefit all workers on a global scale.
