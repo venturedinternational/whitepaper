@@ -154,7 +154,6 @@ Pool allocations:
 - 33% for company tokens
 - 29% for reserve tokens for future stakeholders
 - 5% for network promotion and Ethereum Network donations. 
-<br>
 Sale information:
 - Exchange rate: 6000 VCN = 1 ETH. 
 - Token contract address: Will be published through our website 24 hours before launch date. 
