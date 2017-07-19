@@ -148,11 +148,14 @@ Eventually the system may make suggestions for new opportunities based on profil
 
 ### Token Launch Summary
 VentureCoin (VCN) will have a hard cap of 40M USD, and a minimum of 4M USD. These caps will be set as a number of Ether 24 hours before the crowd sale begins. If the minimum is not reached, we will return all ETH to the address owners. VCN will be generated at a rate of 6000 per 1 Ether for the crowdsale. At the end of the sale the VCN generated will be allocated into four pools as shown below. 
+<br />
 Pool allocations:
 - 33% for crowdsale contributors
 - 33% for company tokens
 - 29% for reserve tokens for future stakeholders
 - 5% for network promotion and Ethereum Network donations. 
+<br />
+Sale information:
 - Exchange rate: 6000 VCN = 1 ETH. 
 - Token contract address: Will be published through our website 24 hours before launch date. 
 - Launch date and time: 8AM PST August 25, 2017
