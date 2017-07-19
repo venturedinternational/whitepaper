@@ -147,15 +147,18 @@ Eventually the system may make suggestions for new opportunities based on profil
 ## VentureCoin (VCN)
 
 ### Token Launch Summary
-VentureCoin will have a hard cap of 40M USD, and a minimum of 4M USD (4M USD) in ETH/BTC/LTC.
-If the minimum is not reached, we will return all ETH/BTC/LTC to their address owners. There will be 1.5 Billion VCN minted, with 500 million for sale in the initial coin offering. Core contributors of the Ventured project will retain 500 million VCN with a one year vesting schedule. The remaining 500 million VCN will be used to promote the framework and to make donations to the Ethereum Foundation. No future VCN will ever be minted.
-- Total VCN = 1.5 billion
-- Total VCN for sale = 500 million
-- Exchange rate: 1 ETH = 5,000 VCN
-- Token contract address: Will be published through our website 12 hours before launch date. 
-- Launch date and time: 8AM PST August 15, 2017
+VentureCoin (VCN) will have a hard cap of 40M USD, and a minimum of 4M USD. These caps will be set as a number of Ether 24 hours before the crowd sale begins. If the minimum is not reached, we will return all ETH to the address owners. VCN will be generated at a rate of 6000 per 1 Ether for the crowdsale. At the end of the sale the VCN generated will be allocated into four pools as shown below. 
+Pool allocations:
+33% for crowdsale contributors
+33% for company tokens
+29% for reserve tokens for future stakeholders
+5% for network promotion and Ethereum Network donations. 
+- Exchange rate: 6000 VCN = 1 ETH. 
+- Token contract address: Will be published through our website 24 hours before launch date. 
+- Launch date and time: 8AM PST August 25, 2017
 - Token launch time-frame: One month.
 - Token launch completion: Token launch will end when either the maximum number of ETH are raised or after a period of one month.
+
 
 ### Budget Allocation
 The funds raised from the ICO will be allocated in the following manner:
