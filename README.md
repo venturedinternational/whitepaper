@@ -150,20 +150,21 @@ Eventually the system may make suggestions for new opportunities based on profil
 VentureCoin (VCN) will have a hard cap of 40M USD, and a minimum of 4M USD. These caps will be set as a number of Ether 24 hours before the crowd sale begins. If the minimum is not reached, we will return all ETH to the address owners. VCN will be generated at a rate of 6000 per 1 Ether for the crowdsale. At the end of the sale the VCN generated will be allocated into four pools as shown below. 
 <br><br>
 Pool allocations:
-- 33% for crowdsale contributors
-- 33% for company tokens
-- 29% for reserve tokens for future stakeholders
-- 5% for network promotion and Ethereum Network donations. 
+- 33% crowdsale contributors
+- 33% core team
+- 20% for reserve tokens for future stakeholders
+- 10% early contributors and investors
+- 4% token sale costs and bounty program. 
 
 ### 3.1. Token Launch Summary
 VentureCoin will have a hard cap of 40M USD, and a minimum of 4M USD (4M USD) in ETH.
 If the minimum is not reached, we will return all ETH to their address owners. There will be 1.5 Billion VCN minted, with 500 million for sale in the initial coin offering. Core contributors of the Ventured project will retain 500 million VCN with a one year vesting schedule. The remaining 500 million VCN will be used to promote the framework and to make donations to the Ethereum Foundation. No future VCN will ever be minted.
-• Total VCN = 1.5 billion
-• Total VCN for sale = 500 million
+• Total VCN = 1 billion
+• Total VCN for sale = 330 million
 Sale information:
-- Exchange rate: 6000 VCN = 1 ETH. 
+- Exchange rate: 1ETH = ValueOfEth * 12. 
 - Token contract address: Will be published through our website 24 hours before launch date. 
-- Launch date and time: 8AM PST August 25, 2017
+- Launch date and time: 8AM PST November 10, 2017
 - Token launch time-frame: One month.
 - Token launch completion: Token launch will end when either the maximum number of ETH are raised or after a period of one month.
 
@@ -202,7 +203,7 @@ See the terms and conditions here: https://ventured.one/terms-and-conditions
 ## Conclusion
 **Ventured** is facilitating the next generation of work. It allows people to work on things they find most interesting and be rewarded for it. Individuals are no longer bound by companies or location. Ventured is an ambitious platform by any standard, but it has the potential to benefit all workers on a global scale.
 <br><br>
-We hope to empower individuals in a way that allows for increased productivity and life fulfillment. We want you, the potential investor, to help us bring this platform to life. Subscribe to our newsletter at https://www.ventured.one/ and participate in our initial coin offering on August 25th. Using the funds raised, we will be able to fund development of Ventured and fix the current broken system of work and labour. 
+We hope to empower individuals in a way that allows for increased productivity and life fulfillment. We want you, the potential investor, to help us bring this platform to life. Subscribe to our newsletter at https://www.ventured.one/ and participate in our initial coin offering on November 10th. Using the funds raised, we will be able to fund development of Ventured and fix the current broken system of work and labour. 
 
 ## Appendices
 ### Ethereum Overview
