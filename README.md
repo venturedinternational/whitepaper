@@ -155,6 +155,11 @@ Pool allocations:
 - 29% for reserve tokens for future stakeholders
 - 5% for network promotion and Ethereum Network donations. 
 
+### 3.1. Token Launch Summary
+VentureCoin will have a hard cap of 40M USD, and a minimum of 4M USD (4M USD) in ETH.
+If the minimum is not reached, we will return all ETH to their address owners. There will be 1.5 Billion VCN minted, with 500 million for sale in the initial coin offering. Core contributors of the Ventured project will retain 500 million VCN with a one year vesting schedule. The remaining 500 million VCN will be used to promote the framework and to make donations to the Ethereum Foundation. No future VCN will ever be minted.
+• Total VCN = 1.5 billion
+• Total VCN for sale = 500 million
 Sale information:
 - Exchange rate: 6000 VCN = 1 ETH. 
 - Token contract address: Will be published through our website 24 hours before launch date. 
