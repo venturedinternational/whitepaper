@@ -18,12 +18,9 @@ Ventured seeks to establish social equity between contractors and companies thro
     * [What Freelancing Misses](#what-freelancing-misses)
     * [What Ventured Offers](#what-ventured-offers)
 * [Ventured App](#ventured-app)
-    * [Weekly Product Stream](#weekly-product-stream)
     * [Features](#features)
     * [How it works](#how-it-works)
 * [VentureCoin, VCN](#venturecoin-vcn)
-    * [Token Launch Summary](#token-launch-summary)
-    * [Budget Allocation](#budget-allocation)
     * [Token Usage](#token-usage)
     * [Token Specifications](#token-specifications)
 * [Legal](#legal)
@@ -113,9 +110,6 @@ This means there are two general use cases for the Ventured App:
 - A user will be able to come to the platform and search until they find a Venture that meets their criteria (pay rate, schedule, location, social match, skill match, interest, etc). Then that user will be able to apply to do work for that Venture in exchange for some amount of money (ETH, BTC, LTC) and/or some amount of Token-Shares of that specific Venture.
 - A user will be able to come to the platform and create a new Venture that is an idea for some product, service, event, organization etc. Once the Venture is created that user will be able to offer their own unique token-share and/or money (ETH, BTC, LTC) in exchange for work. 
 
-### Weekly Product Stream
-There are many additional use cases that we will be showcasing in a weekly product stream. The stream aims to take a closer look at some of the features listed below and their corresponding use cases and then walk through the product prototype on stream and get feedback from the audience. 
-
 ### Features
 1. **Search** - As a user I want to be able to find Ventures that are a good match for me. Some of the search/filter categories include: pay rate, schedule, location, social match, skill match, and interest.
 
@@ -145,35 +139,6 @@ Once a user creates a profile they can discover or search for Ventures that inte
 Eventually the system may make suggestions for new opportunities based on profile preferences, friends list, and which Ventures the user is following. Venturers can team up to form guilds or add each other as friends to do work together in the future. And of course any Venturer has the ability to create their own Venture at any time.
 
 ## VentureCoin (VCN)
-
-### Token Launch Summary
-VentureCoin (VCN) will have a hard cap of 40M USD, and a minimum of 4M USD. These caps will be set as a number of Ether 24 hours before the crowd sale begins. If the minimum is not reached, we will return all ETH to the address owners. VCN will be generated at a rate of 6000 per 1 Ether for the crowdsale. At the end of the sale the VCN generated will be allocated into four pools as shown below. 
-<br><br>
-Pool allocations:
-- 33% crowdsale contributors
-- 33% core team
-- 20% for reserve tokens for future stakeholders
-- 10% early contributors and investors
-- 4% token sale costs and bounty program. 
-
-### 3.1. Token Launch Summary
-VentureCoin will have a hard cap of 40M USD, and a minimum of 4M USD (4M USD) in ETH.
-If the minimum is not reached, we will return all ETH to their address owners. There will be 1 Billion VCN minted, with 330 million for sale in the initial coin offering. Core contributors of the Ventured project will retain 500 million VCN with a one year vesting schedule. The remaining 500 million VCN will be used to promote the framework and to make donations to the Ethereum Foundation. No future VCN will ever be minted.
-• Total VCN = 1 billion
-• Total VCN for sale = 330 million
-Sale information:
-- Exchange rate: 1ETH = ValueOfEth * 12. 
-- Token contract address: Will be published through our website 24 hours before launch date. 
-- Launch date and time: 8AM PST November 10, 2017
-- Token launch time-frame: One month.
-- Token launch completion: Token launch will end when either the maximum number of ETH are raised or after a period of one month.
-
-
-### Budget Allocation
-The funds raised from the ICO will be allocated in the following manner:
-<div align='center'>
-    <img width='80%' src='https://github.com/venturednetwork/whitepaper/blob/master/images/budget-allocation.png?raw=true'>
-</div>
 
 ### Token Usage
 VCN is itself a Token-Share and will have it’s value tied to the Ventured platform. Tasks that will improve the overall platform like crowdsourcing work ratings and reputation will be payable with VCN. Additionally VCN can be used to invest in other Ventures and in general transactions within the platform at a discounted rate to Ethereum. These transactions include governance, creating new Ethereum tokens, assigning new tasks, network arbitration, and other functionality.
@@ -229,6 +194,6 @@ Smart contract programs (“Ðapps,” short for “decentralized applications�
     <img width='60px' src='https://venturednetwork.github.io/branding/assets/ventured-avatar-lg.png'/>
     <br />
     <span style='opacity: 0.7; margin-top: 50px; font-size: 0.8rem' align="center">
-        Copyright © 2017 Ventured International Inc. All rights reserved. version 0.3
+        Copyright © 2018 Ventured International Inc. All rights reserved. version 0.5
     </span>
 </div>
