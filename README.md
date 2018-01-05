@@ -28,25 +28,6 @@ Ventured seeks to establish social equity between contractors and companies thro
 * [Appendices](#appendices)
 * [References](#references)
 
-[Background]:https://github.com/venturednetwork/whitepaper#1-background
-[Static Jobs vs. Dynamic Work]: https://github.com/venturednetwork/whitepaper#static-jobs-vs-dynamic-work
-[Freelancing as a Current Solution]: https://github.com/venturednetwork/whitepaper#freelancing-as-a-current-solution
-[What Freelancing Misses]: https://github.com/venturednetwork/whitepaper#what-freelancing-misses
-[What Ventured Offers]: https://github.com/venturednetwork/whitepaper#what-ventured-offers
-[Ventured App]: https://github.com/venturednetwork/whitepaper#ventured-app
-[2.1]: ?
-[2.2]: ?
-[2.3]: ?
-[3.1]: ?
-[3.2]: ?
-[3.3]: ?
-[3.4]: ?
-[4.1]: ?
-[4.2]: ?
-[4.3]: ?
-[4.4]: ?
-
-
 ## Background
 Post World War II America is often viewed as one of the greatest periods of growth and economic mobility in the modern world. A study from Aaronson and Mazumder used an intergenerational elasticity indicator to suggest that: “economic mobility was relatively low in 1940 but increased over the subsequent four decades.” <sup>3</sup> Workers benefitted greatly in a post-war America. The “Organization Man” <sup>4</sup> that stayed with a company could expect the company to take care of him. In turn, these companies benefited from dedicated employees who worked hard to improve the organization because they were personally invested in the company.
 <br><br>
@@ -152,7 +133,7 @@ Ventures will be able to create their own tokens through the Ventured platform. 
 The Ventured platform will provide a simple user interface to create smart contracts. Smart contract execution and deployment will require a variable amount of VCN depending on the contract parameters. 
 
 ### Token Specifications
-The core of the VCN token will be a fork of the MiniMe token open sourced by Giveth. This token contract was chosen for its great functionality and flexibility. Clones of itself can be easily generated at any given block number, and anyone can give extra features to the token holders without having to migrate to a new contract. Some of the applications that the MiniMe token contract can be used for are:
+The core of VCN will be a ERC20 compliant token.
 - Generating a voting token that is burned when you vote.
 - Generating a discount "coupon" that is redeemed when you use it.
 - Generating a token for a "spinoff" DAO.
