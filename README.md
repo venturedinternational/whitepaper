@@ -1,5 +1,5 @@
 <div align="right">
-    <img width='60px' src='https://venturedinternational.github.io/branding/assets/ventured-avatar-lg.png'/>
+    <img width='60px' src='https://github.com/venturedinternational/branding/blob/master/assets/ventured-avatar-lg.png?raw=true'/>
 </div>
 
 # Whitepaper
@@ -172,7 +172,7 @@ Smart contract programs (“Ðapps,” short for “decentralized applications�
 
 
 <div align="center">
-    <img width='60px' src='https://venturedinternational.github.io/branding/assets/ventured-avatar-lg.png'/>
+    <img width='60px' src='https://github.com/venturedinternational/branding/blob/master/assets/ventured-avatar-lg.png?raw=true'/>
     <br />
     <span style='opacity: 0.7; margin-top: 50px; font-size: 0.8rem' align="center">
         Copyright © 2018 Ventured International Inc. All rights reserved. version 0.5
